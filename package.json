@@ -1,0 +1,32 @@
+{
+  "name": "node-hash-a-number",
+  "version": "1.0.0",
+  "description": "Number hashing library - node module",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gitfaf/node-hash-a-number.git"
+  },
+  "keywords": [
+    "hash a number",
+    "hash",
+    "number"
+  ],
+  "author": "Git Faf <git.faf@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gitfaf/node-hash-a-number/issues"
+  },
+  "homepage": "https://github.com/gitfaf/node-hash-a-number#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "jasmine": "^2.9.0"
+  },
+  "dependencies": {
+    "node-get-ascii": "^2.0.0",
+    "sorry-constants": "^1.0.0"
+  }
+}
